@@ -1,36 +1,36 @@
-.am {
+.flex-container, .am {
     justify-content: center;
 }
 
-.al {
+.actual-logo-and-links, .div-containing-links, .al {
     display: flex;
 }
 
-.aw {
+.actual-logo-and-links, .div-containing-links, .aw {
     flex-direction: row;
 }
 
-.av {
+.actual-logo-and-links, .av {
     height: 75px;
 }
 
-.au {
+.actual-logo-and-links, .au {
     padding: 25px 0;
 }
 
-.bp {
+.div-containing-links, .bp {
     align-items: center;
 }
 
-.z {
+.main-container, .z {
     background: #FFC017;
 }
 
-.y {
+.main-container, .y {
     display: block;
 }
 
-.x {
+.main-container, .x {
     border-bottom: 1px solid rgba(41, 41, 41, 1);
 }
 
