@@ -34,5 +34,26 @@
     border-bottom: 1px solid rgba(41, 41, 41, 1);
 }
 
+.btn-get-started {
+    transition: background-color 300ms linear, color 300ms linear;
+    text-decoration: none;
+    display: inline-block;
+    box-sizing: border-box;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 99em;
+    border-color: rgba(25, 25, 25, 1);
+    background: rgba(25, 25, 25, 1);
+    fill: rgba(255, 255, 255, 1);
+    padding: 7px 16px 9px;
+    color: rgba(255, 255, 255, 1);
+    line-height: 20px;
+    font-size: 14px;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    margin: 0;
+    overflow: visible;
+    -webkit-tap-highlight-color: transparent;
+}
 
 
